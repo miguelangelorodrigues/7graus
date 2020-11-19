@@ -1,4 +1,0 @@
-FROM php:7.4-cli
-
-COPY . /usr/src//7graus
-WORKDIR /usr/src/myapp
