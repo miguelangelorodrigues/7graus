@@ -1,6 +1,6 @@
-#Technical Test
+# Technical Test
 
-###Requirements
+### Requirements
 * php-7.4
 * composer
 
